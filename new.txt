@@ -1,0 +1,1 @@
+the system will make a file name 'new' automatically and apply the append operation on it
